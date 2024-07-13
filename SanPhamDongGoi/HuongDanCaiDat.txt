@@ -1,0 +1,4 @@
+Bước 1: Chạy data.sql để tạo CSDL QuanLyShopTheThaoPingPong.
+Bước 2: Đặt mật khẩu sa của SQL Server là 123.
+Bước 3: Chạy file setup mật khẩu cài đặt là admin@123 (chú ý môi trường JDK1.8+).
+Bước 4: Sau khi cài đặt mở ứng dụng lên đăng nhập với số điện thoại là 0978215902 và mật khẩu là admin@123.
